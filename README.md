@@ -8,7 +8,7 @@
 </a>
 
 <br />
-  <img center align="right" alt="GIF" src="https://github.com/Gemy403/Gemy403/blob/main/code.gif?raw=true" width="400" height="250" />
+  <img center align="right" alt="GIF" src="https://github.com/Gemy403/Gemy403/blob/main/code.gif?raw=true" width="300" height="250" />
 
 hi, i'm Ahmed Gamal an experienced engineer with a demonstrated history of working and skilled in :
 git, github, python, object oriented programming, automation, html, css, javascript, bootstrap, responsive webDesign, django, rest framework, swagger, postman, celery, redis, docker, heroku, vue js, sql, deploy, htmx, aws, orm, charts, ajax, jwt, mysql, postgresql
