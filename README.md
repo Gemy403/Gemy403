@@ -24,9 +24,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
-[![My Skills](https://skillicons.dev/icons?i=linkedin,twitter,py,git,github,django,docker,eclipse,vscode,js,jquery,kubernetes,linux,mongodb,mysql,nginx,nodejs,postgres,postman,powershell,raspberrypi,react,sqlite,stackoverflow,vscode,aws,bootstrap,cloudflare,css,,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin,twitter,py,git,github,django,docker,eclipse,vscode,js,jquery,kubernetes,linux,mongodb,mysql,nginx,nodejs,postgres,postman,powershell,raspberrypi,react,sqlite,stackoverflow,vscode,aws,bootstrap,cloudflare,css&theme=light)](https://skillicons.dev)
 
-  <img center align="right" alt="GIF" src="https://github.com/Gemy403/Gemy403/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img center align="center" alt="GIF" src="https://github.com/Gemy403/Gemy403/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 <!--END_SECTION:waka-->
