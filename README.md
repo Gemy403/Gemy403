@@ -19,15 +19,15 @@ also in electronics experience in arduino UNO, mega and NodeMCU,
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/Gemy403/Gemy403/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:gemygmal403@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-[![My Skills](https://skillicons.dev/icons?i=py,git,github,django,docker,eclipse,vscode,js,jquery,kubernetes,i,linux,mongodb,mysql,nginx,nodejs,postgres,postman,powershell,raspberrypi,react,sqlite,stackoverflow,twitter,vscode,aws,bootstrap,cloudflare,css,,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin,twitter,py,git,github,django,docker,eclipse,vscode,js,jquery,kubernetes,linux,mongodb,mysql,nginx,nodejs,postgres,postman,powershell,raspberrypi,react,sqlite,stackoverflow,vscode,aws,bootstrap,cloudflare,css,,figma&theme=light)](https://skillicons.dev)
 
+  <img align="right" alt="GIF" src="https://github.com/Gemy403/Gemy403/blob/main/code.gif?raw=true" width="700" height="320" />
 
 
 <!--END_SECTION:waka-->
