@@ -10,7 +10,7 @@
 <br />
   <img center align="right" alt="GIF" src="https://github.com/Gemy403/Gemy403/blob/main/code.gif?raw=true" width="300" height="200" />
 
-hi, i'm Ahmed Gamal an experienced engineer with a demonstrated history of working and skilled in :
+hi, i'm Ahmed an experienced engineer with a demonstrated history of working and skilled in :
 git, github, python, object oriented programming, automation, html, css, javascript, bootstrap, responsive webDesign, django, rest framework, swagger, postman, celery, redis, docker, heroku, vue js, sql, deploy, htmx, aws, orm, charts, ajax, jwt, mysql, postgresql
 Also in : visual basic, cisco, mikrotic , linux servers , firewalls and windows server from 2003 and till 2022 
 also in electronics experience in arduino UNO, mega and NodeMCU,
