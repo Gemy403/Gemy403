@@ -4,7 +4,7 @@
   <img align="left" alt="Ahmed | Twitter" width="22px" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
 <a href="https://www.linkedin.com/in/ahmed-gamal-378333151/">
-  <img align="left" alt="Ahmed's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ahmed's LinkedIN" width="40px" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
 
 <br />
