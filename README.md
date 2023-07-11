@@ -1,10 +1,10 @@
 ### hey there 
 
 <a href="https://twitter.com/ahmedclenton403">
-  <img align="left" alt="Ahmed | Twitter" width="60px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" />
+  <img align="left" alt="Ahmed | Twitter" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ahmed-gamal-378333151/">
-  <img align="left" alt="Ahmed's LinkedIN" width="60px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" />
+  <img align="left" alt="Ahmed's LinkedIN" width="40px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" />
 </a>
 
 <br />
