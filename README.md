@@ -1,10 +1,10 @@
 ### hey there 
 
 <a href="https://twitter.com/ahmedclenton403">
-  <img align="left" alt="Ahmed | Twitter" width="80px" src="[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/ahmedclenton403.svg?style=social&label=Follow%20%40ahmedclenton403)](https://twitter.com/ahmedclenton403)" />
+  <img align="left" alt="Ahmed | Twitter" width="60px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ahmed-gamal-378333151/">
-  <img align="left" alt="Ahmed's LinkedIN" width="22px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" />
+  <img align="left" alt="Ahmed's LinkedIN" width="60px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" />
 </a>
 
 <br />
