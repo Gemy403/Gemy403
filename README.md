@@ -1,7 +1,7 @@
 ### hey there 
 
 <a href="https://twitter.com/ahmedclenton403">
-  <img align="left" alt="Ahmed | Twitter" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Ahmed | Twitter" width="22px" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
 <a href="https://www.linkedin.com/in/ahmed-gamal-378333151/">
   <img align="left" alt="Ahmed's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
