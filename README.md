@@ -25,7 +25,18 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 **languages and tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,py,git,github,django,react,flask,redis,sqlite,docker,kubernetes,eclipse,vscode,js,jquery,linux,kali,redhat,mongodb,mysql,nginx,nodejs,postgres,postman,powershell,raspberrypi,stackoverflow,vscode,aws,bootstrap,cloudflare,css,apple&theme=light)](https://skillicons.dev)
 
-
+Programming Languages
+[Skills: HTML, Python, JavaScript](https://skillicons.dev)
+Frameworks and Libraries
+[Skills: Django, Flask, React, Bootstrap, jQuery, Node.js](https://skillicons.dev)
+Databases
+[Skills: SQLite, PostgreSQL, MySQL, MongoDB, Redis](https://skillicons.dev)
+DevOps and Cloud
+[Skills: Docker, Kubernetes, AWS, Cloudflare, Nginx](https://skillicons.dev)
+Tools and Platforms
+[Skills: Git, GitHub, Postman, VSCode, Eclipse, Raspberry Pi, Powershell, Linux, Kali, Red Hat](https://skillicons.dev)
+Other Essentials
+[Skills: Stack Overflow, Apple](https://skillicons.dev)
 
 <!--END_SECTION:waka-->
 
