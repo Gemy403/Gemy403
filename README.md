@@ -1,46 +1,21 @@
-### hey there 
+### 🚀 Ahmed Gamal | Full-Stack Architect
 
-<a href="https://twitter.com/ahmedclenton403">
-  <img align="left" alt="Ahmed | Twitter" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ahmed-gamal-378333151/">
-  <img align="left" alt="Ahmed's LinkedIN" width="40px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" />
-</a>
+<a href="https://twitter.com/ahmedclenton403"><img src="https://skillicons.dev/icons?i=twitter" width="30"/></a> 
+<a href="https://www.linkedin.com/in/ahmed-gamal-378333151/"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a>
 
-<br />
-  <img center align="right" alt="GIF" src="https://github.com/Gemy403/Gemy403/blob/main/code.gif?raw=true" width="300" height="200" />
+<img align="right" src="https://github.com/Gemy403/Gemy403/blob/main/code.gif?raw=true" width="300" height="200" />
 
-hi, i'm Ahmed an experienced engineer with a demonstrated history of working and skilled in :
-git, github, python, object oriented programming, automation, html, css, javascript, bootstrap, responsive webDesign, django, rest framework, swagger, postman, celery, redis, docker, heroku, vue js, sql, deploy, htmx, aws, orm, charts, ajax, jwt, mysql, postgresql
-Also in : visual basic, cisco, mikrotic , linux servers , firewalls and windows server from 2003 and till 2022 
-also in electronics experience in arduino UNO, mega and NodeMCU,
+**Systems Whisperer** | **15s Dev Cycles** | **Cloud-Native Pioneer**  
+Shipped 50+ scalable solutions from IoT to enterprise APIs. Obsessed with elegant code and bulletproof infra.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+**Core Arsenal:**  
+[![Stack](https://skillicons.dev/icons?i=py,django,aws,kubernetes,docker,redis,postgres,react,vue,git,linux,nodejs&theme=dark)](https://skillicons.dev)
 
+**Edge Play:**  
+Hardware Hacking (Arduino/RPi) | Zero-Trust Networks | CI/CD Wizardry
 
-  
-- 💼 any freelance work? do reach, [email](mailto:gemygmal403@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+**Battle Cry:**  
+*"If it's not automated, it's broken."*
 
-**languages and tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,py,git,github,django,react,flask,redis,sqlite,docker,kubernetes,eclipse,vscode,js,jquery,linux,kali,redhat,mongodb,mysql,nginx,nodejs,postgres,postman,powershell,raspberrypi,stackoverflow,vscode,aws,bootstrap,cloudflare,css,apple&theme=light)](https://skillicons.dev)
-
-Programming Languages
-[Skills: HTML, Python, JavaScript](https://skillicons.dev)
-Frameworks and Libraries
-[Skills: Django, Flask, React, Bootstrap, jQuery, Node.js](https://skillicons.dev)
-Databases
-[Skills: SQLite, PostgreSQL, MySQL, MongoDB, Redis](https://skillicons.dev)
-DevOps and Cloud
-[Skills: Docker, Kubernetes, AWS, Cloudflare, Nginx](https://skillicons.dev)
-Tools and Platforms
-[Skills: Git, GitHub, Postman, VSCode, Eclipse, Raspberry Pi, Powershell, Linux, Kali, Red Hat](https://skillicons.dev)
-Other Essentials
-[Skills: Stack Overflow, Apple](https://skillicons.dev)
-
-<!--END_SECTION:waka-->
-
-
-
-
-
+📫 **Scale with me:** [gemygmal403@gmail.com](mailto:gemygmal403@gmail.com)  
+💡 **Current Obsession:** Rewriting monoliths into serverless microservices
