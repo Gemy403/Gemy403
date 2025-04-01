@@ -23,8 +23,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
-[![My Skills](https://skillicons.dev/icons?i=linux,redhat,kali,apple,powershell,docker,kubernetes,aws,nginx,cloudflare,raspberrypi,git,github,vscode,eclipse,postman,stackoverflow,py,js,django,flask,nodejs,html,css,bootstrap,react,jquery,mysql,postgres,mongodb,sqlite,redis&theme=light)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu,redhat,kali,windows,apple,docker,kubernetes,aws,gcp,heroku,nginx,cloudflare,raspberrypi,arduino,git,github,vscode,pycharm,vim,eclipse,postman,selenium,stackoverflow,py,js,django,fastapi,flask,nodejs,html,css,bootstrap,react,jquery,mysql,postgres,mongodb,sqlite,redis,powershell&theme=light)](https://skillicons.dev)
 <!--END_SECTION:waka-->
 
 
